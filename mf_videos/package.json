@@ -1,0 +1,12 @@
+{
+  "name": "mf_videos",
+  "version": "1.0.0",
+  "description": "Micro-frontend Videos",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
